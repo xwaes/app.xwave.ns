@@ -22,7 +22,7 @@ enableGitInfo = true
 
 [services]
   [services.googleAnalytics]
-    id = 'G-GC2H1TLP6Z'
+    id = 'G-2GGKR37BQH'
 
 # Multi-lingual mode config
 # There are different options to translate files

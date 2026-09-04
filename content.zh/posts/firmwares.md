@@ -5,7 +5,7 @@ date: 2025-08-10T10:11:02+03:00
 # bookSearchExclude: false
 ---
 
-下载适用于所有 Switch 模拟器的 Nintendo Switch 固件 v21.0.1，让你的游戏体验更流畅。
+下载适用于所有 Switch 模拟器的 Nintendo Switch 固件 v22.5.0，让你的游戏体验更流畅。
 
 任天堂持续改进其系统与服务，不断提升系统功能与用户体验。
 
@@ -19,6 +19,11 @@ Nintendo Switch 最新固件已经发布，此次更新为小幅版本。
 
 | 版本   | 文件大小 | 链接 |
 | ------ | -------- | ---- |
+| v22.5.0 | 325MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/22.5.0/Firmware.22.5.0.zip) |
+| v22.1.0 | 325MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/22.1.0/Firmware.22.1.0.zip) |
+| v22.0.0 | 325MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/22.0.0/Firmware.22.0.0.zip) |
+| v21.2.0 | 342MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip) |
+| v21.1.0 | 343MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.1.0/Firmware.21.1.0.zip) |
 | v21.0.1 | 341MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.0.1/Firmware.21.0.1.zip) |
 | v21.0.0 | 341MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.0.0/Firmware.21.0.0.zip) |
 | v20.5.0 | 340MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip) |

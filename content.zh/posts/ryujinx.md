@@ -67,6 +67,15 @@ Ryujinx Prod Keys（生产密钥）是 Ryujinx 解密并运行 Nintendo Switch �
 
 | 版本   | 链接 |
 | :----: | :--: |
+| v22.5.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v22.5.0.zip)** |
+| v22.1.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v22.1.0.zip)** |
+| v22.0.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v22.0.0.zip)** |
+| v21.2.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v21.2.0.zip)** |
+| v21.1.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v21.1.0.zip)** |
+| v21.0.1 | **[DOWNLOAD](/prodkeys/ProdKeys_v21.0.1.zip)** |
+| v21.0.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v21.0.0.zip)** |
+| v20.5.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v20.5.0.zip)** |
+| v20.4.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v20.4.0.zip)** |
 | v20.3.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v20.3.0.zip)** |
 | v20.2.0 | **[DOWNLOAD](/prodkeys/ProdKeys_v20.2.0.zip)** |
 | V20.1.5 | **[DOWNLOAD](/prodkeys/ProdKeys_v20.1.5.zip)** |
@@ -93,6 +102,15 @@ Ryujinx 固件指从 Nintendo Switch 主机提取的系统软件文件，模拟�
 
 | 版本   | 文件大小 | 链接 |
 | ------ | -------- | ---- |
+| v22.5.0 | 325MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/22.5.0/Firmware.22.5.0.zip) |
+| v22.1.0 | 325MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/22.1.0/Firmware.22.1.0.zip) |
+| v22.0.0 | 325MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/22.0.0/Firmware.22.0.0.zip) |
+| v21.2.0 | 342MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip) |
+| v21.1.0 | 343MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.1.0/Firmware.21.1.0.zip) |
+| v21.0.1 | 341MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.0.1/Firmware.21.0.1.zip) |
+| v21.0.0 | 341MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.0.0/Firmware.21.0.0.zip) |
+| v20.5.0 | 340MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip) |
+| v20.4.0 | 340MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.4.0/Firmware.20.4.0.zip) |
 | v20.3.0 | 340MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.3.0.zip) |
 | v20.2.0 | 340MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.2.0/Firmware.20.2.0.zip) |
 | V20.1.5 | 340MB | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.1.5/Firmware.20.1.5.zip) |
