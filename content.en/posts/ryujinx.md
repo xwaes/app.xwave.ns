@@ -11,45 +11,17 @@ Ryujinx is an open-source Nintendo Switch emulator designed to replicate the Swi
 
 Official Ryujinx Website: https://ryujinx.app/
 
-{{% columns %}}
-- ### Windows
-  Available for Windows 10 and 11. Most users will need the x64 version.
+## Latest build
 
-  <img src="/images/windows.png" width="100"/>
+Stable builds are made every so often from the `master` branch and published as releases. They are intended to give most users a more enjoyable and stable experience. Stable builds are generally released about once a month, providing consistent updates without requiring users to download every individual change made during that period.
 
-  {{<button href="https://update.ryujinx.app/download/query?os=win&arch=x64&rc=stable">}}Download x64{{</button>}}
+{{<button href="https://git.ryujinx.app/projects/Ryubing/releases">}}Download stable builds{{</button>}}
 
-- ### MacOS
-  Only Apple Silicon Macs are properly supported.
+Canary builds are compiled automatically for each commit on the `master` branch. Although updates are tested before they are pushed, Canary builds may be unstable or completely broken and are recommended only for experienced users.
 
-  <img src="/images/macos.png" width="100"/>
+{{<button href="https://git.ryujinx.app/Ryubing/Canary/releases">}}Download Canary builds{{</button>}}
 
-  {{<button href="https://update.ryujinx.app/download/query?os=mac&arch=arm64&rc=stable">}}Download{{</button>}}
-
-- ### Linux (normal)
-
-  Standard Linux executable, with its dependencies, in a tarball.
-
-  <img src="/images/linux.png" width="100"/>
-
-  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=x64&rc=stable">}}Download x64{{</button>}}
-
-  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=arm64&rc=stable">}}Download ARM{{</button>}}
-
-{{% /columns %}}
-
-{{% columns %}}
-
-- ### Linux (AppImage)
-  Available for most modern Linux distributions.
-
-  <img src="/images/linux.png" width="100"/>
-
-  {{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=x64&rc=stable">}}Download x64{{</button>}}
-
-  {{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=arm64&rc=stable">}}Download ARM{{</button>}}
-
-{{% /columns %}}
+Open the appropriate release page and choose the package that matches your operating system and processor architecture. Windows users will generally need the x64 build, Apple Silicon Mac users need the ARM64 build, and Linux users can choose between the archive and AppImage packages when available.
 
 ## What are Ryujinx Prod Keys?
 

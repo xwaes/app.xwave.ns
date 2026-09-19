@@ -9,47 +9,19 @@ date: 2025-08-02T00:14:05+03:00
 
 Ryujinx 是一款开源的 Nintendo Switch 模拟器，目标是在电脑上复现 Switch 的游戏体验。它主要使用 C# 开发，注重准确性与性能，支持 Windows 与 Linux（也在一定程度上支持 macOS），可在不同分辨率与帧率下游玩游戏，且常常能提供比原机更好的输出效果。
 
-官方网站： https://ryujinx.app/
+Ryujinx 官方网站：https://ryujinx.app/
 
-{{% columns %}}
-- ### Windows
-  支持 Windows 10 与 11。大多数用户需要 x64 版本。
+## 最新版本
 
-  <img src="/images/windows.png" width="100"/>
+Stable（稳定版）会定期从 `master` 分支构建并发布，旨在为大多数用户提供更愉快、更稳定的使用体验。稳定版通常每月发布一次左右，既能持续获得更新，也无需在一个月内反复下载每一项单独更新。
 
-  {{<button href="https://update.ryujinx.app/download/query?os=win&arch=x64&rc=stable">}}下载 x64{{</button>}}
+{{<button href="https://git.ryujinx.app/projects/Ryubing/releases">}}下载 Stable 稳定版{{</button>}}
 
-- ### macOS
-  仅正式支持 Apple Silicon Mac。
+Canary（测试版）会针对 `master` 分支的每一次提交自动构建。尽管更新在推送前会尽量确保稳定性与性能，但 Canary 版本仍可能不稳定，甚至完全无法运行，因此只推荐有经验的用户使用。
 
-  <img src="/images/macos.png" width="100"/>
+{{<button href="https://git.ryujinx.app/Ryubing/Canary/releases">}}下载 Canary 测试版{{</button>}}
 
-  {{<button href="https://update.ryujinx.app/download/query?os=mac&arch=arm64&rc=stable">}}下载{{</button>}}
-
-- ### Linux（普通包）
-
-  标准 Linux 可执行文件与依赖的打包（tarball）。
-
-  <img src="/images/linux.png" width="100"/>
-
-  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=x64&rc=stable">}}下载 x64{{</button>}}
-
-  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=arm64&rc=stable">}}下载 ARM{{</button>}}
-
-{{% /columns %}}
-
-{{% columns %}}
-
-### Linux（AppImage）
-适用于大多数现代 Linux 发行版。
-
-<img src="/images/linux.png" width="100"/>
-
-{{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=x64&rc=stable">}}下载 x64{{</button>}}
-
-{{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=arm64&rc=stable">}}下载 ARM{{</button>}}
-
-{{% /columns %}}
+进入对应的发行页面后，请选择与你的操作系统和处理器架构相匹配的软件包。Windows 用户通常选择 x64 版本；Apple Silicon Mac 用户选择 ARM64 版本；Linux 用户可在提供时选择压缩包或 AppImage。
 
 ## 什么是 Ryujinx Prod Keys？
 
@@ -185,6 +157,4 @@ Ryujinx 固件指从 Nintendo Switch 主机提取的系统软件文件，模拟�
 ## 结语
 
 本文提供了可用于低配设备的 Ryujinx prod keys、title keys 与固件，并给出了提取与安装说明。
-
-
 
